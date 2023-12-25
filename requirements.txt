@@ -1,3 +1,4 @@
 2023-11-09 refactor parser
 2023-12-06 fix timezone bug
 2023-12-15 typo
+2023-12-25 guard against None
