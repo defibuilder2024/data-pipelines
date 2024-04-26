@@ -3,3 +3,4 @@
 2023-12-15 typo
 2023-12-25 guard against None
 2024-01-04 guard against None
+2024-04-26 move config to env
