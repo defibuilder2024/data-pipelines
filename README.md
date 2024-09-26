@@ -4,3 +4,4 @@
 2024-03-24 move config to env
 2024-03-31 cleanup dead code
 2024-09-20 docs
+2024-09-26 lint
