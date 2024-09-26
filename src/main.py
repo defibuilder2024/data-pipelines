@@ -8,3 +8,4 @@
 2024-06-05 migration
 2024-06-07 lint
 2024-09-20 cache the lookups
+2024-09-26 bump deps
