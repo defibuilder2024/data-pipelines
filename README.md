@@ -5,3 +5,4 @@
 2024-03-31 cleanup dead code
 2024-09-20 docs
 2024-09-26 lint
+2024-10-16 add retry on 429
