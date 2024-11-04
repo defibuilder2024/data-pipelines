@@ -5,3 +5,4 @@
 2024-03-27 dockerfile
 2024-03-29 refactor parser
 2024-05-04 migration
+2024-11-04 readme
