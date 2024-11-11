@@ -10,3 +10,4 @@
 2024-09-20 cache the lookups
 2024-09-26 bump deps
 2024-10-06 metrics
+2024-11-11 small perf pass
