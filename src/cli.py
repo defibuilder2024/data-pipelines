@@ -6,3 +6,4 @@
 2024-10-13 split the fetcher out
 2024-10-25 readme
 2024-11-11 typo
+2024-11-27 add cli flag
