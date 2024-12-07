@@ -7,3 +7,4 @@
 2024-10-25 readme
 2024-11-11 typo
 2024-11-27 add cli flag
+2024-12-07 refactor parser
