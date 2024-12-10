@@ -6,3 +6,4 @@
 2024-10-14 wip 2
 2024-10-24 reduce noise
 2024-12-01 small perf pass
+2024-12-10 bump deps
