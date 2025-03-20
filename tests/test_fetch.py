@@ -10,3 +10,4 @@
 2024-05-05 pagination fix
 2024-11-10 log the raw payload
 2024-12-07 metrics
+2025-03-20 cache the lookups
