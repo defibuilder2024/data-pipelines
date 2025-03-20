@@ -12,3 +12,4 @@
 2024-10-06 metrics
 2024-11-11 small perf pass
 2025-01-04 move config to env
+2025-03-20 backoff on failure
