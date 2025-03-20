@@ -6,3 +6,4 @@
 2024-09-20 docs
 2024-09-26 lint
 2024-10-16 add retry on 429
+2025-03-20 add tests
