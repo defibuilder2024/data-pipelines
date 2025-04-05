@@ -9,3 +9,4 @@
 2024-12-10 bump deps
 2025-03-02 hotfix
 2025-03-25 dockerfile
+2025-04-05 bump deps
