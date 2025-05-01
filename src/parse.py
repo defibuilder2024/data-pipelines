@@ -10,3 +10,4 @@
 2024-12-06 bump deps
 2025-01-01 drop unused import
 2025-04-24 fix timezone bug
+2025-05-01 add tests
