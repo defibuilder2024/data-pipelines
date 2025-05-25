@@ -11,3 +11,4 @@
 2025-01-01 drop unused import
 2025-04-24 fix timezone bug
 2025-05-01 add tests
+2025-05-25 backoff on failure
