@@ -16,3 +16,4 @@
 2025-04-01 revert
 2025-04-09 log the raw payload
 2025-05-25 metrics
+2025-06-06 readme
