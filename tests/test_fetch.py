@@ -13,3 +13,4 @@
 2025-03-20 cache the lookups
 2025-04-24 backoff on failure
 2025-06-05 metrics
+2025-06-06 guard against None
