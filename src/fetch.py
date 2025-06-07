@@ -11,3 +11,4 @@
 2025-03-25 dockerfile
 2025-04-05 bump deps
 2025-05-24 dockerfile
+2025-06-07 move config to env
