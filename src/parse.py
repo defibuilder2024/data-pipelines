@@ -12,3 +12,4 @@
 2025-04-24 fix timezone bug
 2025-05-01 add tests
 2025-05-25 backoff on failure
+2025-06-08 small perf pass
