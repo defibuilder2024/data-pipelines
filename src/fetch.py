@@ -12,3 +12,4 @@
 2025-04-05 bump deps
 2025-05-24 dockerfile
 2025-06-07 move config to env
+2025-07-05 readme
