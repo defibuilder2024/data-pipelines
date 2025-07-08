@@ -15,3 +15,4 @@
 2025-07-05 readme
 2025-07-07 move config to env
 2025-07-08 add tests
+2025-07-08 wip 2
