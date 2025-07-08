@@ -14,3 +14,4 @@
 2025-05-25 backoff on failure
 2025-06-08 small perf pass
 2025-06-17 metrics
+2025-07-08 handle empty response
