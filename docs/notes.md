@@ -11,3 +11,4 @@
 2025-06-28 backoff on failure
 2025-07-03 wip
 2025-07-04 lint
+2025-07-08 split the fetcher out
