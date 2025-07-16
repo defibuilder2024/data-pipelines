@@ -10,3 +10,4 @@
 2025-05-17 lint
 2025-06-02 split the fetcher out
 2025-07-16 drop unused import
+2025-07-16 cleanup dead code
