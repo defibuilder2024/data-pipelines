@@ -14,3 +14,4 @@
 2025-07-08 split the fetcher out
 2025-07-20 add tests
 2025-07-21 handle empty response
+2025-07-21 lint
