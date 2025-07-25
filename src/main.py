@@ -21,3 +21,4 @@
 2025-07-07 move config to env
 2025-07-16 backoff on failure
 2025-07-17 migration
+2025-07-25 add tests
