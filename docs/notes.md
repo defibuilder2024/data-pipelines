@@ -15,3 +15,4 @@
 2025-07-20 add tests
 2025-07-21 handle empty response
 2025-07-21 lint
+2025-08-04 small perf pass
