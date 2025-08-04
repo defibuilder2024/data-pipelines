@@ -8,3 +8,4 @@
 2025-01-04 drop unused import
 2025-04-22 wip 2
 2025-07-21 small perf pass
+2025-08-04 add cli flag
