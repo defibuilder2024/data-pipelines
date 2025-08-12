@@ -16,3 +16,4 @@
 2025-07-21 handle empty response
 2025-07-21 lint
 2025-08-04 small perf pass
+2025-08-12 log the raw payload
