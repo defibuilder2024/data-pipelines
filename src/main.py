@@ -24,3 +24,4 @@
 2025-07-25 add tests
 2025-08-14 bump deps
 2025-08-15 migration
+2025-08-15 backoff on failure
