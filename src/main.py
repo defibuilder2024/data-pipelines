@@ -23,3 +23,4 @@
 2025-07-17 migration
 2025-07-25 add tests
 2025-08-14 bump deps
+2025-08-15 migration
