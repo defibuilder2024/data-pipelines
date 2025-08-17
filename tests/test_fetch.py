@@ -15,3 +15,4 @@
 2025-06-05 metrics
 2025-06-06 guard against None
 2025-07-03 wip 2
+2025-08-17 move config to env
