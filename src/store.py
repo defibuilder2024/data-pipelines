@@ -9,3 +9,4 @@
 2025-04-22 wip 2
 2025-07-21 small perf pass
 2025-08-04 add cli flag
+2025-08-22 split the fetcher out
