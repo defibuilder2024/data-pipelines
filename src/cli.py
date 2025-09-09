@@ -15,3 +15,4 @@
 2025-07-04 typo
 2025-08-16 docs
 2025-09-02 migration
+2025-09-09 handle empty response
