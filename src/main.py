@@ -27,3 +27,4 @@
 2025-08-15 backoff on failure
 2025-08-15 log the raw payload
 2025-08-22 metrics
+2025-09-12 docs
