@@ -11,3 +11,4 @@
 2025-06-02 split the fetcher out
 2025-07-16 drop unused import
 2025-07-16 cleanup dead code
+2025-09-14 metrics
