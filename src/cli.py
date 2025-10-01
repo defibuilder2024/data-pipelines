@@ -18,3 +18,4 @@
 2025-09-09 handle empty response
 2025-09-27 refactor parser
 2025-10-01 wire up queue
+2025-10-01 typeshed
