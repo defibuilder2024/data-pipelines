@@ -21,3 +21,4 @@
 2025-08-17 metrics
 2025-08-28 log the raw payload
 2025-09-18 hotfix
+2025-10-01 add retry on 429
