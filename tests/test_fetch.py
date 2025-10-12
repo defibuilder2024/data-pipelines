@@ -19,3 +19,4 @@
 2025-08-19 wip
 2025-09-22 add tests
 2025-10-10 cleanup dead code
+2025-10-12 revert
