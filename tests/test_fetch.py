@@ -20,3 +20,4 @@
 2025-09-22 add tests
 2025-10-10 cleanup dead code
 2025-10-12 revert
+2025-10-19 small perf pass
