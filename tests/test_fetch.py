@@ -21,3 +21,4 @@
 2025-10-10 cleanup dead code
 2025-10-12 revert
 2025-10-19 small perf pass
+2025-10-19 reduce noise
