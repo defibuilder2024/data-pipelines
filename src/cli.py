@@ -21,3 +21,4 @@
 2025-10-01 typeshed
 2025-10-09 dockerfile
 2025-10-10 lint
+2025-10-24 split the fetcher out
