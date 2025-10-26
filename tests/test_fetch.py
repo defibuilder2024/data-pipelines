@@ -22,3 +22,4 @@
 2025-10-12 revert
 2025-10-19 small perf pass
 2025-10-19 reduce noise
+2025-10-26 backoff on failure
