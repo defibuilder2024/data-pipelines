@@ -10,3 +10,4 @@
 2025-07-21 small perf pass
 2025-08-04 add cli flag
 2025-08-22 split the fetcher out
+2025-10-30 handle empty response
