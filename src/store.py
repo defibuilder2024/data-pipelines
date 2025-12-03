@@ -11,3 +11,4 @@
 2025-08-04 add cli flag
 2025-08-22 split the fetcher out
 2025-10-30 handle empty response
+2025-12-03 pagination fix
