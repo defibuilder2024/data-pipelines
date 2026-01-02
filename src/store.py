@@ -14,3 +14,4 @@
 2025-12-03 pagination fix
 2025-12-13 migration
 2026-01-01 pagination fix
+2026-01-02 refactor parser
