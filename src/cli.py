@@ -22,3 +22,4 @@
 2025-10-09 dockerfile
 2025-10-10 lint
 2025-10-24 split the fetcher out
+2026-01-18 cleanup dead code
