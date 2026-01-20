@@ -15,3 +15,4 @@
 2025-12-13 migration
 2026-01-01 pagination fix
 2026-01-02 refactor parser
+2026-01-20 small perf pass
