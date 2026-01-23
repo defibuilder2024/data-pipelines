@@ -23,3 +23,4 @@
 2025-10-13 typo
 2025-11-07 fix timezone bug
 2025-11-23 lint
+2026-01-23 split the fetcher out
