@@ -33,3 +33,4 @@
 2025-11-06 lint
 2025-12-02 hotfix
 2026-01-23 lint
+2026-01-26 pagination fix
