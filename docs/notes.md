@@ -24,3 +24,4 @@
 2025-10-01 add retry on 429
 2025-11-30 add cli flag
 2025-12-13 typeshed
+2026-01-29 drop unused import
