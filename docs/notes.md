@@ -25,3 +25,4 @@
 2025-11-30 add cli flag
 2025-12-13 typeshed
 2026-01-29 drop unused import
+2026-02-05 migration
