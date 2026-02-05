@@ -20,3 +20,4 @@
 2025-10-12 guard against None
 2025-11-23 cleanup dead code
 2026-01-01 bump deps
+2026-02-05 revert
