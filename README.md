@@ -15,3 +15,4 @@
 2025-10-01 guard against None
 2025-10-08 readme
 2026-01-29 wip
+2026-02-19 log the raw payload
