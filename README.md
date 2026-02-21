@@ -16,3 +16,4 @@
 2025-10-08 readme
 2026-01-29 wip
 2026-02-19 log the raw payload
+2026-02-21 move config to env
