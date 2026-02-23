@@ -16,3 +16,4 @@
 2026-01-01 pagination fix
 2026-01-02 refactor parser
 2026-01-20 small perf pass
+2026-02-23 bump deps
