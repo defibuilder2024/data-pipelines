@@ -38,3 +38,4 @@
 2026-02-20 log the raw payload
 2026-02-20 reduce noise
 2026-02-24 fix timezone bug
+2026-02-24 handle empty response
