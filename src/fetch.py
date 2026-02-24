@@ -25,3 +25,4 @@
 2025-11-23 lint
 2026-01-23 split the fetcher out
 2026-01-23 add cli flag
+2026-02-24 small perf pass
