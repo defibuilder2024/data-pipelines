@@ -27,3 +27,4 @@
 2026-01-11 cache the lookups
 2026-02-24 add tests
 2026-03-01 move config to env
+2026-03-01 backoff on failure
