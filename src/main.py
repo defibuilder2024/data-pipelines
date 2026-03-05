@@ -42,3 +42,4 @@
 2026-03-01 wip
 2026-03-01 fix timezone bug
 2026-03-02 hotfix
+2026-03-05 typeshed
