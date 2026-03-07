@@ -25,3 +25,4 @@
 2026-01-18 cleanup dead code
 2026-02-07 drop unused import
 2026-02-19 backoff on failure
+2026-03-07 add cli flag
