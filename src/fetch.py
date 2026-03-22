@@ -28,3 +28,4 @@
 2026-02-24 small perf pass
 2026-03-14 cleanup dead code
 2026-03-22 cache the lookups
+2026-03-22 typeshed
