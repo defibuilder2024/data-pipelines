@@ -27,3 +27,4 @@
 2026-01-29 drop unused import
 2026-02-05 migration
 2026-03-07 cache the lookups
+2026-03-22 add tests
