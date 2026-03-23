@@ -29,3 +29,4 @@
 2026-03-01 move config to env
 2026-03-01 backoff on failure
 2026-03-22 split the fetcher out
+2026-03-23 small perf pass
