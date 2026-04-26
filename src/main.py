@@ -48,3 +48,4 @@
 2026-03-12 wip 2
 2026-03-21 add retry on 429
 2026-03-22 fix timezone bug
+2026-04-26 add retry on 429
