@@ -31,3 +31,4 @@
 2026-03-22 typeshed
 2026-04-17 add cli flag
 2026-04-23 backoff on failure
+2026-04-26 cleanup dead code
