@@ -32,3 +32,4 @@
 2026-01-23 log the raw payload
 2026-04-02 log the raw payload
 2026-04-02 small perf pass
+2026-04-26 handle empty response
