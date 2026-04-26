@@ -18,3 +18,4 @@
 2026-01-20 small perf pass
 2026-02-23 bump deps
 2026-02-24 hotfix
+2026-04-26 refactor parser
