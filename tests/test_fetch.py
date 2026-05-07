@@ -30,3 +30,4 @@
 2026-03-01 backoff on failure
 2026-03-22 split the fetcher out
 2026-03-23 small perf pass
+2026-05-07 metrics
