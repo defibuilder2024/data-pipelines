@@ -32,3 +32,4 @@
 2026-03-23 small perf pass
 2026-05-07 metrics
 2026-05-09 fix timezone bug
+2026-05-14 cache the lookups
