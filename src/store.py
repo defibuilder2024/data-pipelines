@@ -19,3 +19,4 @@
 2026-02-23 bump deps
 2026-02-24 hotfix
 2026-04-26 refactor parser
+2026-06-03 typo
