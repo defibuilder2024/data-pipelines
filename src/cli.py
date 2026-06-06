@@ -27,3 +27,4 @@
 2026-02-19 backoff on failure
 2026-03-07 add cli flag
 2026-05-20 reduce noise
+2026-06-06 fix timezone bug
