@@ -33,3 +33,4 @@
 2026-05-07 metrics
 2026-05-09 fix timezone bug
 2026-05-14 cache the lookups
+2026-06-06 handle empty response
