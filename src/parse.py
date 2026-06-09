@@ -25,3 +25,4 @@
 2026-03-22 readme
 2026-04-01 refactor parser
 2026-05-14 wip
+2026-06-09 guard against None
