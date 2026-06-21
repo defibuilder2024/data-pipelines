@@ -26,3 +26,4 @@
 2026-04-01 refactor parser
 2026-05-14 wip
 2026-06-09 guard against None
+2026-06-21 revert
