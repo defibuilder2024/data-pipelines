@@ -30,3 +30,4 @@
 2026-06-06 fix timezone bug
 2026-06-24 add cli flag
 2026-06-24 docs
+2026-06-25 pagination fix
