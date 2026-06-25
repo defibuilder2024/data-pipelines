@@ -22,3 +22,4 @@
 2026-06-03 typo
 2026-06-06 backoff on failure
 2026-06-09 docs
+2026-06-25 move config to env
