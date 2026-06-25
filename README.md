@@ -20,3 +20,4 @@
 2026-03-08 readme
 2026-05-26 pagination fix
 2026-06-23 reduce noise
+2026-06-25 migration
