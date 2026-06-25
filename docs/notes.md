@@ -31,3 +31,4 @@
 2026-05-21 hotfix
 2026-05-26 drop unused import
 2026-06-06 drop unused import
+2026-06-25 move config to env
