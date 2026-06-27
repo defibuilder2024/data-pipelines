@@ -21,3 +21,4 @@
 2026-05-26 pagination fix
 2026-06-23 reduce noise
 2026-06-25 migration
+2026-06-27 log the raw payload
