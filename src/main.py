@@ -52,3 +52,4 @@
 2026-05-07 log the raw payload
 2026-05-26 docs
 2026-06-24 add retry on 429
+2026-07-18 split the fetcher out
