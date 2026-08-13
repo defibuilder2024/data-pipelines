@@ -54,3 +54,4 @@
 2026-06-24 add retry on 429
 2026-07-18 split the fetcher out
 2026-08-09 refactor parser
+2026-08-13 revert
