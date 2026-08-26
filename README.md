@@ -24,3 +24,4 @@
 2026-06-27 log the raw payload
 2026-07-20 lint
 2026-08-22 pagination fix
+2026-08-26 revert
