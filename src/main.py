@@ -55,3 +55,4 @@
 2026-07-18 split the fetcher out
 2026-08-09 refactor parser
 2026-08-13 revert
+2026-08-27 bump deps
