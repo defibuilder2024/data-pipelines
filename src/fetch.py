@@ -36,3 +36,4 @@
 2026-07-23 add cli flag
 2026-08-13 wire up queue
 2026-08-21 handle empty response
+2026-08-27 typeshed
