@@ -35,3 +35,4 @@
 2026-05-14 cache the lookups
 2026-06-06 handle empty response
 2026-07-23 guard against None
+2026-08-30 cleanup dead code
