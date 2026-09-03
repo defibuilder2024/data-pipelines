@@ -36,3 +36,4 @@
 2026-06-06 handle empty response
 2026-07-23 guard against None
 2026-08-30 cleanup dead code
+2026-09-03 move config to env
