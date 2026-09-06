@@ -29,3 +29,4 @@
 2026-06-21 revert
 2026-07-09 guard against None
 2026-07-11 guard against None
+2026-09-06 typeshed
