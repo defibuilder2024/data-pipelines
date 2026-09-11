@@ -25,3 +25,4 @@
 2026-07-20 lint
 2026-08-22 pagination fix
 2026-08-26 revert
+2026-09-11 refactor parser
