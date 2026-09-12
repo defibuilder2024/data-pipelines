@@ -25,3 +25,4 @@
 2026-06-25 move config to env
 2026-06-27 cache the lookups
 2026-08-18 migration
+2026-09-12 pagination fix
