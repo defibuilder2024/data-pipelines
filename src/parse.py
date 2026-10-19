@@ -30,3 +30,4 @@
 2026-07-09 guard against None
 2026-07-11 guard against None
 2026-09-06 typeshed
+2026-10-19 reduce noise
