@@ -39,3 +39,4 @@
 2026-09-03 move config to env
 2026-10-11 pagination fix
 2026-10-11 refactor parser
+2026-10-27 dockerfile
